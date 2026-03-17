@@ -1,4 +1,9 @@
-# Universal Protocol for Literary Analysis (UPLA)
+> **Restricted-use methodology notice**  
+> This repository does not grant free unrestricted use of UPLA.  
+> Non-commercial use is permitted only with attribution.  
+> Commercial use requires a prior written agreement with the author.
+>
+> # Universal Protocol for Literary Analysis (UPLA)
 
 **Author:** Niyaz M. Tukhvatullin  
 **Version referenced:** UPLA v1.3  
